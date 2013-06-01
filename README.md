@@ -45,6 +45,17 @@ Backend developer of a service designed to enhance live music events. Provides a
 
 ##### Presskit.to
 Backend developer of a portfolio service targeted at musicians and labels. Allows creating a rich, interactive portfolio accessible via single memorable URL. Supports CRUD operations with media files a textual content via RESTful API. Built with Node.js and CouchDB.
+
+--
+#### Consulting, 2008-2011
+##### Persona Jewelry+, 2010—2011
+On-site photography sessions, post-processing, printed advertisement design.
+
+##### Velocity Apps, Graphic Design, 2010—2011
+Produced graphic assets for a variety of iOS games and applications - Circle the Bug, Dew, iUpload, Bible Dipper and other.
+
+##### Wings for Cats, Graphic Design, 2010—2011
+Designed graphic assets for an iOS game (Archers). Game gained popularity and was in the top 10 free apps for 2 weeks.
 ____
 
 ### Contact me
