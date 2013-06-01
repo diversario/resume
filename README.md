@@ -45,3 +45,7 @@ Backend developer of a service designed to enhance live music events. Provides a
 
 ##### Presskit.to
 Backend developer of a portfolio service targeted at musicians and labels. Allows creating a rich, interactive portfolio accessible via single memorable URL. Supports CRUD operations with media files a textual content via RESTful API. Built with Node.js and CouchDB.
+____
+
+### Contact me
+ilya.shaisultanov@gmail.com
