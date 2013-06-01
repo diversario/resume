@@ -48,13 +48,13 @@ Backend developer of a portfolio service targeted at musicians and labels. Allow
 
 --
 #### Consulting, 2008-2011
+##### Velocity Apps, Graphic Design, 2011—2012
+Produced graphic assets for a variety of iOS games and applications - Circle the Bug, Dew, iUpload, Bible Dipper and other.
+
 ##### Persona Jewelry+, 2010—2011
 On-site photography sessions, post-processing, printed advertisement design.
 
-##### Velocity Apps, Graphic Design, 2010—2011
-Produced graphic assets for a variety of iOS games and applications - Circle the Bug, Dew, iUpload, Bible Dipper and other.
-
-##### Wings for Cats, Graphic Design, 2010—2011
+##### Wings for Cats, Graphic Design, 2008—2009
 Designed graphic assets for an iOS game (Archers). Game gained popularity and was in the top 10 free apps for 2 weeks.
 ____
 
