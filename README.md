@@ -1,5 +1,5 @@
 # Summary
-Software engineer with 3+ years of professional experience focusing on Node.js and NoSQL data stores. I strive for sustainable and process-oriented development, love to collaborate on challenging projects, mentor and learn new languages — for a project or just for fun. Look for long-term, thought-out solution when it benefits the business.
+Software engineer with 3+ years of professional experience focusing on Node.js and NoSQL data stores. I strive for sustainable and process-oriented development, love to collaborate on challenging projects, mentor and be mentored, and learn new languages — for a project or just for fun. I look for a long-term, thought-out solution when it benefits the business.
 
 Attended NodeCamp 2012 on company's behalf. Active participant on Node.js mailing list and Github (npm modules).
 
