@@ -68,7 +68,7 @@ Designed graphic assets for an iOS game (Archers). Game gained popularity and wa
 --
 
 ### Dipner Studio, Lead Graphic Designer, 2005—2007
-Designed graphic assets for an iOS game (Archers). Game gained popularity and was in the top 10 free apps for 2 weeks.
+Design and illustration, brand identity, client expectation management, 3D visualization, photography.
 
 --
 
