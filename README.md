@@ -1,11 +1,13 @@
-### Summary
-Software engineer with 3+ years of professional experience focusing on Node.js and NoSQL data stores. I strive for sustainable and process-oriented development, love to collaborate on challenging projects, mentor and learn. Look for long-term, thought-out solution when it benefits the business.
+# Summary
+Software engineer with 3+ years of professional experience focusing on Node.js and NoSQL data stores. I strive for sustainable and process-oriented development, love to collaborate on challenging projects, mentor and learn new languages — for a project or just for fun. Look for long-term, thought-out solution when it benefits the business.
 
 Attended NodeCamp 2012 on company's behalf. Active participant on Node.js mailing list and Github (npm modules).
-____
 
-### Skills
-Languages: Node.js, JavaScript, PHP, C++, Java, Scala
+
+
+# Skills
+
+Languages: Node.js, JavaScript, PHP, C++ (beginner), Java (learning), Scala (learning)
 
 Frameworks: Express, Mocha, Socket.IO and others
 
@@ -16,11 +18,12 @@ Operating Systems: Linux, OS X, Windows
 Version Control: Git, SVN
 
 Other: Agile (scrum), OOP, TDD
-____
 
-### Experience
---
-#### Rakuten Loyalty
+
+
+# Experience
+
+### Rakuten Loyalty, Principal Engineer, 2012—current
 Measurably improved code quality and development discipline, resulting in fewer bugs and clean, maintainable, reusable code.
 
 Mentor colleagues and new hires in Node.js, JavaScript, MongoDB, Git. Work with management to establish change management process, release engineering and enforce process-oriented, business-driven development.
@@ -31,7 +34,8 @@ Lead of core services engineering team responsible for architecture and developm
 Coauthor of a distributed system designed as a solution to cron limitations. The system is multiple-master, multiple-satellite, with each satellite managing its own cluster of workers (job runners). Built in Node.js, it uses MongoDB as a storage, RPC for node-to-node communication and UDP multicast for node discovery. The project is planned to go open source.
 
 --
-#### SignedOn
+
+### SignedOn, Lead Engineer, 2010—2012
 Introduced Node.js and NoSQL stack as a replacement for PHP/MySQL. Developed and maintained several client projects, deployed and supported development and production environments.
 
 ##### Red Bull Studios
@@ -47,16 +51,29 @@ Backend developer of a service designed to enhance live music events. Provides a
 Backend developer of a portfolio service targeted at musicians and labels. Allows creating a rich, interactive portfolio accessible via single memorable URL. Supports CRUD operations with media files a textual content via RESTful API. Built with Node.js and CouchDB.
 
 --
-#### Consulting, 2008-2011
-##### Velocity Apps, Graphic Design, 2011—2012
-Produced graphic assets for a variety of iOS games and applications - Circle the Bug, Dew, iUpload, Bible Dipper and other.
 
-##### Persona Jewelry+, 2010—2011
+### Velocity Apps, Graphic Design Consultant, 2011—2012
+Produced graphic assets for a variety of iOS games and applications — Circle the Bug, Dew, iUpload, Bible Dipper and other.
+
+--
+
+### Persona Jewelry+, Photography Consultant, 2010—2011
 On-site photography sessions, post-processing, printed advertisement design.
 
-##### Wings for Cats, Graphic Design, 2008—2009
-Designed graphic assets for an iOS game (Archers). Game gained popularity and was in the top 10 free apps for 2 weeks.
-____
+--
 
-### Contact me
+### Wings for Cats, Graphic Design Consultant, 2008—2009
+Designed graphic assets for an iOS game (Archers). Game gained popularity and was in the top 10 free apps for 2 weeks.
+
+--
+
+### Dipner Studio, Lead Graphic Designer, 2005—2007
+Designed graphic assets for an iOS game (Archers). Game gained popularity and was in the top 10 free apps for 2 weeks.
+
+--
+
+# Talk to me
+
 ilya.shaisultanov@gmail.com
+
+--
