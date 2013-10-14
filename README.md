@@ -1,7 +1,7 @@
 # Summary
-Software engineer with 3+ years of professional experience focusing on Node.js and NoSQL data stores. I strive for sustainable and process-oriented development, love to collaborate on challenging projects, mentor and be mentored, and learn new languages — for a project or just for fun. I look for a long-term, thought-out solution when it benefits the business.
+Software engineer with 3+ years of professional experience focusing on Node.js and NoSQL data stores. I strive for sustainable and process-oriented development, love collaborating on challenging projects, mentor and be mentored, and learn new languages — for a project or just for fun. I look for a long-term, thought-out solution when it benefits the business.
 
-Attended NodeCamp 2012 on company's behalf. Active participant on Node.js mailing list and Github (npm modules).
+I attended NodeCamp 2012 and 2013 on company's behalf; active participant on Node.js mailing list, contributor to open-source projects and author of few npm modules.
 
 
 
@@ -31,13 +31,16 @@ Mentor colleagues and new hires in Node.js, JavaScript, MongoDB, Git. Work with 
 Lead of core services engineering team responsible for architecture and development of the base platform. The team is tasked with building a foundation for a scalable, high-availability network of services.
 
 ##### In-house job execution framework
-Coauthor of a distributed system designed as a solution to cron limitations. The system is multiple-master, multiple-satellite, with each satellite managing its own cluster of workers (job runners).
+Coauthor of a distributed system designed as a solution to cron limitations. The system is multi-master, multi-satellite, with each satellite managing its own cluster of workers (job runners).
 
-Built in Node.js, it uses MongoDB as a storage, RPC for node-to-node communication and UDP multicast for node discovery. The project is planned to go open source.
+Written in Node.js, it uses MongoDB as a storage, RPC for node-to-node communication and UDP multicast for node discovery. The project is planned to go open source.
 
-##### Data retrieval and manipulation frameworkA framework that abstracts low-level network, file and database operations, and provides generic functionality to fetch, parse, normalize, validate data from a remote source, and then persist the data in a store, e.g. MongoDB.
-Stored data is part of a collection. A collection is made up of one or many data objects (models). A user can manipulate data from a store by performing operations on an entire collection or on individual models.
-The framework eliminates existing and potential code duplication by exposing a reusable, configurable API, significantly decreasing maintenance and development time.
+##### Data retrieval and manipulation framework
+A framework that abstracts low-level network, file and database operations, and provides generic functionality to fetch, parse, normalize, validate data from a remote source, and then persist the data in a store, e.g. MongoDB.
+
+Stored data is part of a collection. A collection is made up of one or many data objects (models). A user can manipulate data from a store by performing operations on an entire collection or on individual models.
+
+The framework eliminates existing and potential code duplication by exposing a reusable, configurable API, significantly decreasing maintenance and development time.
 
 --
 
@@ -48,7 +51,7 @@ Introduced Node.js and NoSQL stack as a replacement for PHP/MySQL. Developed and
 Authored a service that facilitates real-time interaction between musicians and fans across the world. Service integrates with a third-party video streaming service and adds gaming elements (quizzes, ratings), chat and event directory. Implemented with Socket.IO.
 
 ##### Nsyrt
-Backend developer for a startup, 2012 Mass Challenge finalist, aimed at disrupting online advertisement space. Built as a service with customer-facing CMS, the platform scans pages for specific content and augments it with client-defined UI. The system collects various metrics and provides near real-time reports. Client successfully raised funding using beta build for demo purposes. Created with Node.js, MongoDB and KnockoutJS.
+Backend developer for a startup - 2012 Mass Challenge finalist - aimed at disrupting online advertisement space. Built as a service with customer-facing CMS, the platform scans pages for specific content and augments it with client-defined UI. The system collects various metrics and provides near real-time reports. Client successfully raised funding using beta build for demo purposes. Created with Node.js, MongoDB and KnockoutJS.
 
 ##### Tastemate
 Backend developer of a service designed to enhance live music events. Provides an ability to rate a song in real time, chat with other attending users, and participate in contests. 
@@ -69,7 +72,7 @@ On-site photography sessions, post-processing, printed advertisement design.
 --
 
 ### Wings for Cats, Graphic Design Consultant, 2008—2009
-Designed graphic assets for an iOS game (Archers). Game gained popularity and was in the top 10 free apps for 2 weeks.
+Designed graphic assets for an iOS game “Archers” which gained popularity and stayed in the top 10 free apps for several weeks.
 
 --
 
