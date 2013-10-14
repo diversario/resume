@@ -31,7 +31,13 @@ Mentor colleagues and new hires in Node.js, JavaScript, MongoDB, Git. Work with 
 Lead of core services engineering team responsible for architecture and development of the base platform. The team is tasked with building a foundation for a scalable, high-availability network of services.
 
 ##### In-house job execution framework
-Coauthor of a distributed system designed as a solution to cron limitations. The system is multiple-master, multiple-satellite, with each satellite managing its own cluster of workers (job runners). Built in Node.js, it uses MongoDB as a storage, RPC for node-to-node communication and UDP multicast for node discovery. The project is planned to go open source.
+Coauthor of a distributed system designed as a solution to cron limitations. The system is multiple-master, multiple-satellite, with each satellite managing its own cluster of workers (job runners).
+
+Built in Node.js, it uses MongoDB as a storage, RPC for node-to-node communication and UDP multicast for node discovery. The project is planned to go open source.
+
+##### Data retrieval and manipulation frameworkA framework that abstracts low-level network, file and database operations, and provides generic functionality to fetch, parse, normalize, validate data from a remote source, and then persist the data in a store, e.g. MongoDB.
+Stored data is part of a collection. A collection is made up of one or many data objects (models). A user can manipulate data from a store by performing operations on an entire collection or on individual models.
+The framework eliminates existing and potential code duplication by exposing a reusable, configurable API, significantly decreasing maintenance and development time.
 
 --
 
@@ -71,6 +77,10 @@ Designed graphic assets for an iOS game (Archers). Game gained popularity and wa
 Design and illustration, brand identity, client expectation management, 3D visualization, photography.
 
 --
+
+# Education
+### B.S. and M.S. equivalent, System Engineering degree, CS majorKaraganda State Technical University, Kazakhstan, 2000—2005
+--
 
 # Talk to me
 
