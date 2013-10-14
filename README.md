@@ -3,6 +3,8 @@ Software engineer with 3+ years of professional experience focusing on Node.js a
 
 I attended NodeCamp 2012 and 2013 on company's behalf; active participant on Node.js mailing list, contributor to open-source projects and author of few npm modules.
 
+Greencard holder.
+
 
 
 # Skills
@@ -82,8 +84,11 @@ Design and illustration, brand identity, client expectation management, 3D visua
 --
 
 # Education
-### B.S. and M.S. equivalent, System Engineering degree, CS majorKaraganda State Technical University, Kazakhstan, 2000—2005
---
+
+### B.S. and M.S. equivalent, System Engineering degree, CS major
+Karaganda State Technical University, Kazakhstan, 2000—2005
+
+--
 
 # Talk to me
 
