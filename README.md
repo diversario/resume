@@ -3,7 +3,7 @@ Software engineer with 3+ years of professional experience focusing on Node.js a
 
 I attended NodeCamp 2012 and 2013 on company's behalf; active participant on Node.js mailing list, contributor to open-source projects and author of few npm modules.
 
-Greencard holder.
+Greencard holder living in Somerville, MA.
 
 
 
