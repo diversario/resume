@@ -53,7 +53,7 @@ Introduced Node.js and NoSQL stack as a replacement for PHP/MySQL. Developed and
 Authored a service that facilitates real-time interaction between musicians and fans across the world. Service integrates with a third-party video streaming service and adds gaming elements (quizzes, ratings), chat and event directory. Implemented with Socket.IO.
 
 ##### Nsyrt
-Backend developer for a startup - 2012 Mass Challenge finalist - aimed at disrupting online advertisement space. Built as a service with customer-facing CMS, the platform scans pages for specific content and augments it with client-defined UI. The system collects various metrics and provides near real-time reports. Client successfully raised funding using beta build for demo purposes. Created with Node.js, MongoDB and KnockoutJS.
+Backend developer for a startup - 2012 Mass Challenge finalist - aimed at disrupting online advertisement space. Built as a service with customer-facing CMS, the platform scans pages for specific content and augments it with client-defined UI. The system collects various metrics and provides near real-time reports. Created with Node.js, MongoDB and KnockoutJS.
 
 ##### Tastemate
 Backend developer of a service designed to enhance live music events. Provides an ability to rate a song in real time, chat with other attending users, and participate in contests. 
